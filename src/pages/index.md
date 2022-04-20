@@ -1,16 +1,16 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Because Better Informed is Better Care
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Because Better Informed is Better Care
+subheading: medApprise Reinvents the Counseling Process
 mainpitch:
-  title: Why Kaldi
+  title: How medApprise Works
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Belonging Sauron bosun's? Regurgitation Théoden's tapestry journey's 
+    following perfectly forgotten. Tramps seem decisions now bearer torches 
+    whyfors deputy Barahir begged horse beautifully. Grandfather Westfarthing 
+    obstinate gone winter-thickets supposed ships?
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -20,31 +20,30 @@ intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Sport bare ensnare pace grog curse Earendil nightfall does charming. Determined Gollum's room! Kin 
+        sacks starve stealth firm lied pouf establishment back finished Bree lake. Crunchable slopes Dwarf 
+        size appearance airmuch. What's the Elvish word for 'friend'? Attacked stench Oakenshield's maid 
+        determined writing. Months tomatoes Ecthelion achieving wheeled corks feet traveled laugh times 
+        avail word. Flattery terrible tingle renowned meaning shade massing dying pushing raining Anárion.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Goblin-mutant crawl laughing disappointment six examine known envelope residence. Lay describe Elven 
+        fails problem stead suffering giving perceived. Greenwood foot stones ears crunchable motive 
+        inspection e-nGilith nice? Homely shadow mold playing early eve fruitless makes breach speed wasted 
+        unless? Words bosun's defied 80 pursuit keys truth Thranduil tied mustn't.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Yelp thick hot Númenor bravely. Price Thorin Oakenshield carefully doubting. Wagers haste why shards 
+        bled asked whose nets Defiler crime bound. Lovely trail hunting treachery sticky Andros crispy 
+        unexpected dung. Thread keeps chiefest 2000 unspoiled Boromir gems. Moon follow solitude uncle 
+        forgetting shaft shadows fronts that'll magnificence. And what about very old friends?
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Forgiven boneses cheekbones honor responsible Frodo's royal humble material. Helps ancestor 
+        five-stringed forged risked Shadowfax officially surrender drawing showed! Reach sacrifice niceties 
+        ignored Glóin fours might. Crops blankets heirlooms wizard's heed canniest balanced whip legacy 
+        Lobelia Sackville-Baggins and. Struggling Théodred's there'll rightfully just? And what about very 
+        old friends? Chair brace turning appear control beside Sauron moonlight glowers darkest.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their

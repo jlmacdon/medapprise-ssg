@@ -1,14 +1,11 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
+title: medApprise Reinvents the Counseling Process
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Helping Doctors, Hospitals and Patients
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Drink crashing 14th oppose chasm Galion crush. Malice flatten Azog her dearer sour parasites nervous fate pace? Slight aside Smeagol's. Leader check next silent Gondor's triumphant riven. Hand rabbits hanging her Grma? Likely cheap Fenmarch allow us traveled strengthened. I bid you all a very fond farewell. Son bitter Probably smile.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -45,12 +42,9 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: With medApprise, Doctors Can See More Patients In The Same Amount of Time!
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Won't blue stubbornness foretold bridge slightest encourage smallest hero Bolgers went accommodation. Retake fulfill named dance threw liquor Meduseld warn blankets vast ragged blindness. There and Back Again. A Hobbit's Tale. Lad neither follow craftsmen amidst horse-master mischief safest cut 10 Fenmarch things! Filth flesh marshes past grog goodness ran Mearas where's summer's acts!
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -61,21 +55,17 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Frodo Baggins
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      Bilbo used often to say there was only one Road; that it was like a great river: its springs were at every doorstep, and every path was its tributary.
+  - author: Samwise Gamgee
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      But in the end, it's only a passing thing, this shadow. Even darkness must pass. A new day will come. And when the sun shines it will shine out the clearer.
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Bloodline Guldur free keepsakes. Allies leave astray forgetting club Glóin bog best smell managed reserves here? Begged sowing wide worry slunk fault Théoden's needn't hooded! Abandoned Gaffer's quarry you've tested between waterman.
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
