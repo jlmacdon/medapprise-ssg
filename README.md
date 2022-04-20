@@ -1,1 +1,0 @@
-# medapprise-ssg
